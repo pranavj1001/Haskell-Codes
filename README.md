@@ -8,3 +8,5 @@ Hey there,
   Anyone who is also learning Haskell can use the above codes for reference. Also, send me a PR if you want to add more codes.
   
 Happy Programming!
+
+You can also contribute to this repo. Send me a pull request ;)
