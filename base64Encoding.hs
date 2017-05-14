@@ -1,3 +1,5 @@
+{-# LANGUAGE OverloadedStrings #-}
+
 import Data.ByteString.Base64
 import Data.ByteString.Char8
 
